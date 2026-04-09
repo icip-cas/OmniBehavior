@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h1 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h1>
+  <h2 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h2>
 
   <p align="center">
     Benchmarking LLMs on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
@@ -50,7 +50,7 @@
 
 ### Dataset Highlights
 
-This demo dataset represents a case study of a user in Kuaishou:
+This demo dataset represents a case study of a user in [Kuaishou](https://www.kuaishou.com/):
 
 - **Long-term Observation**: The data spans **90 days** (from `2025-09-01` to `2025-11-30`), providing a substantial timeline to observe evolving user interests and habitual patterns.
 - **Real Interaction**: The dataset contains lots of **real actions**, capturing a consistent and detailed trail of user interactions.
