@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h2 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h2>
+  <h1 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h1>
 
   <p align="center">
     Benchmarking LLMs on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
@@ -15,8 +15,10 @@
   🥳 <a href="#citation">Citation</a>
 </p>
 
-![Overview](media/OmniBehavior.jpg)
 
+<p align="center">
+  <img src="media/OmniBehavior.jpg" width="90%" />
+</p>
 
 ## 🚀 What's New 🆕
 
@@ -54,7 +56,7 @@ This demo dataset represents a case study of a user in Kuaishou:
 - **Real Interaction**: The dataset contains lots of **real actions**, capturing a consistent and detailed trail of user interactions.
 - **Comprehensive Scenario Coverage**: The schema supports capturing behavior across **mainstream short-video platform scenarios**.
 
-### 💡 Case Study Value
+### Case Study Value
 
 Although `demo.json` showcases a single user, its depth makes it a valuable resource for research:
 1.  **Long-term Interest Modeling**: The 3-month span allows for the specific tracking of interest shifts and stability over time.
@@ -62,10 +64,9 @@ Although `demo.json` showcases a single user, its depth makes it a valuable reso
 3.  **User Behavior Simulation**: This detailed trajectory provides a ground truth for building user simulators, allowing to evaluate how well agents can simulate real, long-term human behavior patterns in complex environments.
 
 
-<div style="text-align: center;">
-  <img src="media/multi_scenario.jpg" style="width: 80%;" />
-</div>
-
+<p align="center">
+  <img src="media/multi_scenario.jpg" width="80%" />
+</p>
 
 ## 🗂️ Data Structure
 
@@ -97,10 +98,6 @@ The data is organized by user ID. Each user entry contains a textual profile and
   }
 }
 ```
-
-
-
-
 
 ## 📜 License
 
