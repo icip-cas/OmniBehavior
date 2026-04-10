@@ -11,7 +11,7 @@
 
 <p align="center">
   🌐 <a href="https://omnibehavior.github.io/" target="_blank">Website</a> &nbsp; | &nbsp;
-  📃 <a href="#" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📃 <a href="https://arxiv.org/abs/2604.08362" target="_blank">Paper</a> &nbsp; | &nbsp;
   🥳 <a href="#citation">Citation</a>
 </p>
 
