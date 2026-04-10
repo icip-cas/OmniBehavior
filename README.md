@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="media/OmniBehavior.jpg" width="90%" />
+  <img src="media/OmniBehavior.jpg" width="95%" />
 </p>
 
 ## 🚀 What's New 🆕
@@ -115,9 +115,9 @@ If you find our work useful in your research, please consider citing our paper:
       title={Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces}, 
       author={Jiawei Chen and Ruoxi Xu and Boxi Cao and Ruotong Pan and Yunfei Zhang and Yifei Hu and Yong Du and Tingting Gao and Yaojie Lu and Yingfei Sun and Xianpei Han and Le Sun and Xiangyu Wu and Hongyu Lin},
       year={2026},
-      eprint={2604.XXXXX},
+      eprint={2604.08362},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.XXXXX}, 
+      url={https://arxiv.org/abs/2604.08362}, 
 }
 ```
