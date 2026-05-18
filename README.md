@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h1 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h1>
+  <h2 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h2>
 
   <p align="center">
     Benchmarking LLMs on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
