@@ -16,6 +16,10 @@
   🥳 <a href="#citation">Citation</a>
 </p>
 
+> 🚀 **The full OmniBehavior dataset is now publicly available on HuggingFace, including complete raw user behavior traces, evaluation code, and synchronized releases of both Chinese and English versions.**
+>
+> 📥 Download here: [OmniBehavior Dataset](https://huggingface.co/datasets/jiawei-ucas/OmniBehavior/tree/main/raw_user_data)
+
 
 <p align="center">
   <img src="assets/OmniBehavior.jpg" width="95%" />
