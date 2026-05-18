@@ -10,7 +10,6 @@ QWEN_TOKENIZER_MODEL = "Qwen/Qwen3-8B"
 # Judge model for evaluating simulated customer-service conversations in E-commerce scenarios
 TEACHER_MODEL_NAME = "claude-sonnet-4-5-20250929"
 
-
 MODELS_TO_EVALUATE = [
     {
         "name": "gpt-5",
