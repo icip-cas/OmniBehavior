@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h2 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h2>
+  <h1 align="center">OmniBehavior: Towards Real-world Human Behavior Simulation</h1>
 
   <p align="center">
     Benchmarking LLMs on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
@@ -12,13 +12,13 @@
 <p align="center">
   🌐 <a href="https://omnibehavior.github.io/" target="_blank">Website</a> &nbsp; | &nbsp;
   📃 <a href="https://arxiv.org/abs/2604.08362" target="_blank">Paper</a> &nbsp; | &nbsp;
-  📚 <a href="https://huggingface.co/datasets/jiawei-ucas/OmniBehavior">Data</a> &nbsp; | &nbsp;
+  📚 <a href="https://huggingface.co/datasets/jiawei-ucas/OmniBehavior">Dataset</a> &nbsp; | &nbsp;
   🥳 <a href="#citation">Citation</a>
 </p>
 
 > 🚀 **The full OmniBehavior dataset is now publicly available on HuggingFace, including complete raw user behavior traces, evaluation code, and synchronized releases of both Chinese and English versions.**
 >
-> 📥 Download here: [OmniBehavior Dataset](https://huggingface.co/datasets/jiawei-ucas/OmniBehavior/tree/main/raw_user_data)
+> 📥 Download here: [OmniBehavior Dataset](https://huggingface.co/datasets/jiawei-ucas/OmniBehavior)
 
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## What's New
 
-- **[2026.05.15]** We have released the complete dataset and evaluation code! Please check them out and feel free to use them in your research. ✨
+- **[2026.05.18]** We have released the complete dataset and evaluation code! Please check them out and feel free to use them in your research. ✨
 - **[2026.04.10]** We have released the **OmniBehavior** paper! Please check it out for more details on our comprehensive user behavior analysis. 🔥🔥🔥
 
 ## Multiple Scenarios
