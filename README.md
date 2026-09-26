@@ -27,12 +27,13 @@
 
 ## What's New
 
+- **[2026.09.25]** OmniBehavior has been accepted to **NeurIPS 2026**! Congratulations to all co-authors, and big thanks for everyone’s contributions!  🎉🎉🎉
 - **[2026.05.18]** We have released the complete dataset and evaluation code! Please check them out and feel free to use them in your research. ✨
 - **[2026.04.10]** We have released the **OmniBehavior** paper! Please check it out for more details on our comprehensive user behavior analysis. 🔥🔥🔥
 
 ## Multiple Scenarios
 
-**OmniBehavior** captures real user behaviors across several interactive scenarios in [Kuaishou](https://www.kuaishou.com/):
+**OmniBehavior** captures real user behaviors across several interactive scenarios in [Kuaishou](https://www.kuaishou.com/en):
 
 
 | Scene Type          | Description                                                                                                                                     |
