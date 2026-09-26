@@ -47,7 +47,7 @@
 
 ### Dataset Highlights
 
-The released dataset contains user behavior traces from [Kuaishou](https://www.kuaishou.com/):
+The released dataset contains user behavior traces from [Kuaishou](https://www.kuaishou.com/en):
 
 - **Long-term Observation**: The data spans **90 days** (from `2025-09-01` to `2025-11-30`), providing a substantial timeline to observe evolving user interests and habitual patterns.
 - **Real Interaction**: The dataset contains lots of **real actions**, capturing a consistent and detailed trail of user interactions.
@@ -178,13 +178,10 @@ This work is licensed under a
 If you find our work useful in your research, please consider citing our paper.
 
 ```bibtex
-@misc{chen2026omnibehavior,
-      title={Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces}, 
-      author={Jiawei Chen and Ruoxi Xu and Boxi Cao and Ruotong Pan and Yunfei Zhang and Yifei Hu and Yong Du and Tingting Gao and Yaojie Lu and Yingfei Sun and Xianpei Han and Le Sun and Xiangyu Wu and Hongyu Lin},
-      year={2026},
-      eprint={2604.08362},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.08362}, 
+@article{chen2026towards,
+  title={Towards real-world human behavior simulation: Benchmarking large language models on long-horizon, cross-scenario, heterogeneous behavior traces},
+  author={Chen, Jiawei and Xu, Ruoxi and Cao, Boxi and Pan, Ruotong and Zhang, Yunfei and Hu, Yifei and Du, Yong and Gao, Tingting and Lu, Yaojie and Sun, Yingfei and others},
+  journal={arXiv preprint arXiv:2604.08362},
+  year={2026}
 }
 ```
